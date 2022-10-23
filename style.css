@@ -15,7 +15,7 @@ header {
   justify-content: space-around;
   align-items: center;
   padding: 20px 0;
-	font-size: 17px;
+	font-size: 10px;
 }
 
 
@@ -102,7 +102,10 @@ body {
 	display: flex;
   justify-content: space-around;
   align-items: center;
-	font-size: 12px;
+}
+
+.section h2{
+	font-size: 13px;
 }
 
 @keyframes gradient-animation{
